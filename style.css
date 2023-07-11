@@ -5,6 +5,16 @@
   display: flex;
   border-style: double;
   height: 250px;
-  
+
+
+}
+
+
+
+
+.numPad {
+  display: grid;
+  border-style: double;
+  height: 400px;
 
 }
